@@ -4,6 +4,6 @@ public class TestController {
 	
 	public String testMain() {
 		
-		return "test";
+		return "저 잘돼요 엄마들";
 	}
 }
