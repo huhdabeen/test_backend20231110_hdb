@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+input{
+	border: 1px solid rgb(192, 192, 192);
+	width: 50px;
+	height: 20px;
+	border-radius: 5px;
+	padding-left: 10px;
+}
