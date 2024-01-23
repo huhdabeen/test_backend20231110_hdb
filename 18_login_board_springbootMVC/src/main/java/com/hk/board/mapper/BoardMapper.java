@@ -11,7 +11,7 @@ public interface BoardMapper {
 	
 	//글목록
 	public List<BoardDto> getAllList();
-	//글상세소조회
+	//글상세조회
 	public BoardDto getBoard(int board_seq);
 	//글추가
 	public boolean insertBoard(BoardDto dto);
